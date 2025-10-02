@@ -1,0 +1,5 @@
+/.venv
+/completed_experiments
+/logs
+/data/*
+/training_notebooks/results_*
